@@ -7,7 +7,7 @@
 header('Content-type: text/plain');
 
 $smartstart_username = 'paultayoun@hotmail.com';
-$smartstart_password = 'Matthew21';
+$smartstart_password = 'Matthew@21';
 $smartstart_server = 'colt.calamp-ts.com';
 $action = 'arm';
 
