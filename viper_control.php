@@ -6,8 +6,8 @@
 
 header('Content-type: text/plain');
 
-$smartstart_username = 'VIPER_EMAIL_ADDRESS';
-$smartstart_password = 'VIPER_PASSWORD';
+$smartstart_username = paultayoun@hotmail.com
+$smartstart_password = Matthew21
 $smartstart_server = 'colt.calamp-ts.com';
 $action = 'arm';
 
